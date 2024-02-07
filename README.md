@@ -40,7 +40,7 @@ The data given for this case study contains information about past loan applica
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by UpGrad and IITB EPGP Program.
+- This project was inspired by UpGrad and IIITB EPGP Program.
 - Thanks to my colleague Rashmi Nivaragi for your help.  
 
 
