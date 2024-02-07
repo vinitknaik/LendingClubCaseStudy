@@ -45,7 +45,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@vinitknaik] - feel free to contact me!
+Created by [@vinitknaik] and [@RashmiNivaragi] - feel free to contact me!
 
 
 <!-- Optional -->
